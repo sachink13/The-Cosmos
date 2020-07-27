@@ -1,0 +1,26 @@
+.mycontent{
+  padding-top: 100px;
+ border: 10px solid red;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background-image: url('http://msutoday.msu.edu/_/img/assets/2016/2016-09-20-spiral-galaxy.jpg') ;
+  margin: 0;
+  color: white;
+}
+
+
+#note {
+  position: absolute;
+  color: rgba(249,241,204,1);
+  left: 0;
+  right: 0;
+  bottom: 20px;
+  margin: auto;
+  text-align: center;
+  user-select: none;
+  font-family: Arial;
+}
